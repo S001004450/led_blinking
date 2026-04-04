@@ -16,4 +16,4 @@ void loop()
   int valore = map(valore_potenziometro, 0, 1023, 0, 255);
   analogWrite(led, valore);
 
-}potenziomeyro
+}
